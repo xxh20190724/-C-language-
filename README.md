@@ -10,5 +10,7 @@ cd clonefile
 git add file
 git commit -m 'instruction'
 git push
+git pull
+git checkout
 
 ```
